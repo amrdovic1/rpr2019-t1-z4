@@ -2,6 +2,8 @@ package ba.unsa.etf.rpr;
 
 import java.util.Scanner;
 
+//Check warnings
+
 public class Main {
 
     private static Korpa korpa = new Korpa();
